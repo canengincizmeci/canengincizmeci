@@ -9,7 +9,7 @@
                             especially in areas such as computer vision and machine learning
                             I am passionate about exploring how AI can shape the future of technology,
                             and I aim to build a long-term career in this field.
-                            "If you would like to connect or share guidance about these fields,
+                            If you would like to connect or share guidance about these fields,
                             feel free to reach out [canncizmeci@gmail.com](mailto:canncizmeci@gmail.com) 
 
 
